@@ -1,0 +1,216 @@
+Conjunto de Dados: 1000
+Tamanho da Tabela: 10
+Função Hash: Divisão
+Tempo de Inserção: 3.646E-4 segundos
+Número de Colisões: 990
+Tempo de Busca: 2.32E-5 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 1000
+Tamanho da Tabela: 10
+Função Hash: Multiplicação
+Tempo de Inserção: 8.646E-4 segundos
+Número de Colisões: 990
+Tempo de Busca: 1.4E-5 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 1000
+Tamanho da Tabela: 10
+Função Hash: Dobramento
+Tempo de Inserção: 0.0016786 segundos
+Número de Colisões: 990
+Tempo de Busca: 1.25E-5 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 1000
+Tamanho da Tabela: 100
+Função Hash: Divisão
+Tempo de Inserção: 1.436E-4 segundos
+Número de Colisões: 900
+Tempo de Busca: 4.7E-6 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 1000
+Tamanho da Tabela: 100
+Função Hash: Multiplicação
+Tempo de Inserção: 1.653E-4 segundos
+Número de Colisões: 900
+Tempo de Busca: 6.6E-6 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 1000
+Tamanho da Tabela: 100
+Função Hash: Dobramento
+Tempo de Inserção: 6.111E-4 segundos
+Número de Colisões: 900
+Tempo de Busca: 8.9E-6 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 1000
+Tamanho da Tabela: 1000
+Função Hash: Divisão
+Tempo de Inserção: 5.49E-5 segundos
+Número de Colisões: 381
+Tempo de Busca: 4.4E-6 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 1000
+Tamanho da Tabela: 1000
+Função Hash: Multiplicação
+Tempo de Inserção: 2.305E-4 segundos
+Número de Colisões: 374
+Tempo de Busca: 8.1E-6 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 1000
+Tamanho da Tabela: 1000
+Função Hash: Dobramento
+Tempo de Inserção: 6.73E-4 segundos
+Número de Colisões: 363
+Tempo de Busca: 1.23E-5 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 5000
+Tamanho da Tabela: 10
+Função Hash: Divisão
+Tempo de Inserção: 0.0033578 segundos
+Número de Colisões: 4990
+Tempo de Busca: 4.36E-5 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 5000
+Tamanho da Tabela: 10
+Função Hash: Multiplicação
+Tempo de Inserção: 0.0034155 segundos
+Número de Colisões: 4990
+Tempo de Busca: 5.01E-5 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 5000
+Tamanho da Tabela: 10
+Função Hash: Dobramento
+Tempo de Inserção: 0.0064981 segundos
+Número de Colisões: 4990
+Tempo de Busca: 1.309E-4 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 5000
+Tamanho da Tabela: 100
+Função Hash: Divisão
+Tempo de Inserção: 5.258E-4 segundos
+Número de Colisões: 4900
+Tempo de Busca: 9.8E-6 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 5000
+Tamanho da Tabela: 100
+Função Hash: Multiplicação
+Tempo de Inserção: 0.0013529 segundos
+Número de Colisões: 4900
+Tempo de Busca: 1.46E-5 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 5000
+Tamanho da Tabela: 100
+Função Hash: Dobramento
+Tempo de Inserção: 0.001527 segundos
+Número de Colisões: 4900
+Tempo de Busca: 1.93E-5 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 5000
+Tamanho da Tabela: 1000
+Função Hash: Divisão
+Tempo de Inserção: 2.401E-4 segundos
+Número de Colisões: 4007
+Tempo de Busca: 5.0E-6 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 5000
+Tamanho da Tabela: 1000
+Função Hash: Multiplicação
+Tempo de Inserção: 8.114E-4 segundos
+Número de Colisões: 4005
+Tempo de Busca: 6.0E-6 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 5000
+Tamanho da Tabela: 1000
+Função Hash: Dobramento
+Tempo de Inserção: 9.842E-4 segundos
+Número de Colisões: 4008
+Tempo de Busca: 7.6E-6 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 20000
+Tamanho da Tabela: 10
+Função Hash: Divisão
+Tempo de Inserção: 0.0641194 segundos
+Número de Colisões: 19990
+Tempo de Busca: 2.681E-4 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 20000
+Tamanho da Tabela: 10
+Função Hash: Multiplicação
+Tempo de Inserção: 0.0654547 segundos
+Número de Colisões: 19990
+Tempo de Busca: 2.527E-4 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 20000
+Tamanho da Tabela: 10
+Função Hash: Dobramento
+Tempo de Inserção: 0.1078069 segundos
+Número de Colisões: 19990
+Tempo de Busca: 1.82E-4 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 20000
+Tamanho da Tabela: 100
+Função Hash: Divisão
+Tempo de Inserção: 0.0078945 segundos
+Número de Colisões: 19900
+Tempo de Busca: 2.15E-5 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 20000
+Tamanho da Tabela: 100
+Função Hash: Multiplicação
+Tempo de Inserção: 0.0104502 segundos
+Número de Colisões: 19900
+Tempo de Busca: 6.9E-6 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 20000
+Tamanho da Tabela: 100
+Função Hash: Dobramento
+Tempo de Inserção: 0.0144725 segundos
+Número de Colisões: 19900
+Tempo de Busca: 1.006E-4 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 20000
+Tamanho da Tabela: 1000
+Função Hash: Divisão
+Tempo de Inserção: 0.001115 segundos
+Número de Colisões: 19000
+Tempo de Busca: 6.0E-7 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 20000
+Tamanho da Tabela: 1000
+Função Hash: Multiplicação
+Tempo de Inserção: 0.0034907 segundos
+Número de Colisões: 19000
+Tempo de Busca: 1.7E-6 segundos
+Número de Comparações: 5
+----------------------------------------
+Conjunto de Dados: 20000
+Tamanho da Tabela: 1000
+Função Hash: Dobramento
+Tempo de Inserção: 0.006521 segundos
+Número de Colisões: 19000
+Tempo de Busca: 1.214E-4 segundos
+Número de Comparações: 5
+----------------------------------------
